@@ -64,6 +64,7 @@ The modular design of Echelon AI enables seamless integration and scalability.
 - For detailed instructions, refer to the [GitBook Documentation](insert_gitbook_link_here).
 
 ---
+![Echelon AI Architecture](https://github.com/EchelonAISol/EchelonAI/blob/main/IMG_9963.JPG)
 
 ## Getting Started
 
