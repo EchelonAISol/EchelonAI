@@ -21,6 +21,7 @@ Welcome to the Echelon AI project! This repository contains all the necessary re
 - **Observability**: Built-in monitoring tools powered by Opentelemetry.
 
 ---
+![Echelon AI Architecture](https://github.com/EchelonAISol/EchelonAI/blob/main/IMG_9961.JPG)
 
 ## Architecture
 
