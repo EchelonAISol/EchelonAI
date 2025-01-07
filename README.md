@@ -1,5 +1,6 @@
 # EchelonAI
 # Echelon AI
+![Echelon AI Architecture](https://github.com/EchelonAISol/EchelonAI/blob/main/IMG_9958.JPG)
 
 ![Echelon AI Architecture]
 
